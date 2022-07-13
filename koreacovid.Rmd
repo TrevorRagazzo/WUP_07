@@ -69,7 +69,13 @@ This GGplot shows that we see more females than males that were observed. We see
 ## Numerical results
 
 
+```{r}
+table1 <- xtabs(~result + Sex, data=kRdata)
+rowPerc(table1)
+colPerc(table1)
+```
 
+From this graph we see that double the amount of males have died compared to females. Almost 3% males died and 1.4% females died
 
 ## Inferential results 
 
