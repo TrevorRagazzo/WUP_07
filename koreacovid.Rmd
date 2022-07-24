@@ -87,7 +87,7 @@ chisqtestGC(table1)
 fisher.test(table1)
 ```
 
-
+In this test we see that men are about 2.3 times more likely to die than women. The P-value for getting these results are .0012. 
 
 
 ## Conclusions
