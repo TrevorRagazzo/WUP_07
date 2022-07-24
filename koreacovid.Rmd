@@ -92,3 +92,4 @@ In this test we see that men are about 2.3 times more likely to die than women. 
 
 ## Conclusions
 
+First the barchart shows us results of about 65% of males die but only 35% of females die. As we dig deeper into this we see the numerical results showing that men are 2.3 times more likely to die rather than a female. Lastly we look into the P-Value and see that the chances of this changing is about .0012. 
